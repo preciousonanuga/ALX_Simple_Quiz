@@ -1,7 +1,9 @@
 TASK 1: Advanced HTML Registration Form
+
 This project is a responsive, styled User Registration Form built with advanced HTML, CSS and JavaScript. It features client-side validation, visual feedback for users and DOM manipulation to ensure interactive and dynamic form behavior.
 
 ✨ Features
+
 Responsive form layout using Flexbox
 Semantic HTML5 structure
 Modern, consistent form design using custom base.css and style.css
@@ -11,13 +13,19 @@ DOMContentLoaded event handling
 Styled feedback messages with color indicators
 
 🗂️ Project Structure
+
 .
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 🎨 CSS Files
+
 Handles universal resets, default font setup and basic layout styling.
 
 💻 JavaScript – script.js
@@ -39,8 +47,11 @@ No external frameworks or libraries are used.
 Ensure JavaScript is enabled in the browser to see validation.
 
 TASK 2:
+
 📐 Simple Calculator
-A responsive browser-based calculator built with HTML, CSS and JavaScript. Supports:
+
+A responsive browser-based calculator built with HTML, CSS and JavaScript. 
+Supports:
 
 ➕ Addition
 
