@@ -15,14 +15,15 @@ Styled feedback messages with color indicators
 ├── index.html
 ├── style.css
 ├── script.js
-├── screenshots     # UI Reference
 └── README.md
 
 🎨 CSS Files
 Handles universal resets, default font setup and basic layout styling.
 
 💻 JavaScript – script.js
+
 The logic for validation is executed when the DOM is fully loaded.
+
 ✅ Form Validation
 Username: Cannot be empty.
 
@@ -30,7 +31,7 @@ Email: Must contain an "@" symbol.
 
 Password: Must be at least 6 characters.
 
-📌 Notes
+📌 Notes: 
 This project is part of an HTML Advanced exercise.
 
 No external frameworks or libraries are used.
@@ -42,10 +43,15 @@ TASK 2:
 A responsive browser-based calculator built with HTML, CSS and JavaScript. Supports:
 
 ➕ Addition
+
 ➖ Subtraction
+
 ✖️ Multiplication
+
 ➗ Division
+
 🔸 Usage
+
 Enter two numbers in the input fields.
 Click an operation button.
 The result appears instantly below.
