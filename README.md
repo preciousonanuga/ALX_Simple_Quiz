@@ -15,7 +15,6 @@ Styled feedback messages with color indicators
 🗂️ Project Structure
 
 .
-
 ├── index.html
 
 ├── style.css
@@ -69,6 +68,7 @@ The result appears instantly below.
 Includes error handling for division by zero.
 
 📃 License
+
 This project is for educational purposes.
 
 Feel free to customize or reuse it with attribution.
