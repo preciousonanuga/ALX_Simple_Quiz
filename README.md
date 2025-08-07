@@ -15,6 +15,7 @@ Styled feedback messages with color indicators
 🗂️ Project Structure
 
 .
+
 ├── index.html
 
 ├── style.css
@@ -77,6 +78,10 @@ Author:
 Precious Onanuga
 
 Web Developer | UI/UX Designer
+
+
 GitHub: preciousonanuga
+
 Email: preciousonanuga3@gmail.com
+
 © August 7, 2025. ALX Africa. All rights reserved.
